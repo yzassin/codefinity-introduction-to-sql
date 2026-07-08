@@ -1,0 +1,2 @@
+SELECT capital
+FROM country;
